@@ -1,0 +1,18 @@
+.options {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    padding: 10px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    z-index: 100;
+}
+
+.options button {
+    color: white;
+}
+
+.copyright {
+    padding-left: 20px;
+}
